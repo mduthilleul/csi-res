@@ -30,7 +30,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        Test creation of a new branch
+        Test push-lint workflow
       </p>
     </>
   )
